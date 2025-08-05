@@ -29,9 +29,6 @@ Welcome to my GitHub! I'm a Quantitative Researcher-in-training with hands-on ex
 
 ## 🚀 Featured Projects
 
-### 📊 [Blockhouse_Work_Trial](https://github.com/mehullad217/Blockhouse_Work_Trial)  
-Slippage modeling & execution strategy optimization using LOB snapshots  
-→ Modeled temporary market impact curves, optimized trading schedules under execution cost constraints  
 
 ### 🧮 [OFI Feature Construction](https://github.com/mehullad217/ofi-feature-construction)  
 Custom-built Order Flow Imbalance features for high-frequency trading signals  
@@ -51,8 +48,7 @@ Developed a Streamlit app to price and simulate multi-leg option strategies
 - 🧠 **Quant Analyst @ Edelweiss**  
     Built long-short systems (Sharpe up to 1.8), intraday alpha execution models, and NSE-integrated dashboards
 
-- 📉 **Strategy Developer @ Quantify Capital**  
-    Mean-reversion strategy research with walk-forward backtests and live attribution reporting
+
 
 ---
 
